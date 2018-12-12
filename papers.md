@@ -1,17 +1,20 @@
-## Point Cloud 
+### Point Cloud 
   - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+  - PointNet++
+  - PointCNN
+  - PointSIFT
   - Point Cloud GAN \[arxiv20181005\]
 
-## Graph
+### Graph
   - GRAPH ATTENTION NETWORKS
   - Dynamic Graph CNN for Learning on Point Clouds
   - MeshCNN A Network with an Edge \[arxiv20180905\]
   
-## Scene in 3D
+### Scene in 3D
   - Pano2CAD: Room Layout From A Single Panorama Image \[WACV2017\]
   - LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image \[CVPR2018\] [pytorch code](https://github.com/sunset1995/pytorch-layoutnet)
 
-## Skinning
+### Skinning
   - Projective Skinning \[i3d2018\]
   - Geodesic Voxel Binding for Production Character Meshes \[SCA2013\]
   - SIGGRAPH: G: Interactive Rigging \[SIGGRAPH\]
